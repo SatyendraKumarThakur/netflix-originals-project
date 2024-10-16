@@ -1,1 +1,1 @@
-# netflix-originals-project
+# projects
